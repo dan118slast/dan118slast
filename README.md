@@ -16,7 +16,7 @@ Working as a programmer's assistant.<br>Im currently learning web development an
 
 
 # University: Bogota | Colombia | Software Engineering
-<img src='https://i.ytimg.com/vi/40voUQ3EPqA/maxresdefault.jpg' style="display: block; margin: 0 auto; height: 300px;"/>
+<img src='https://i.ytimg.com/vi/40voUQ3EPqA/maxresdefault.jpg' ref='https://www.udistrital.edu.co/inicio' style="display: block; margin: 0 auto; height: 300px;"/>
 
 # 📊 GitHub Stats:
 
