@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: I hate PHP :)
 Working as a programmer's assistant.<br>Im currently learning web development and databases<br>JAVA and SQL Wizard<br>
 
 
